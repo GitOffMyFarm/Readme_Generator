@@ -41,5 +41,5 @@
   
   [Find me on Github](https://github.com/GitOffMyFarm)
   or Email me at freemanjj1992@gmail.com
-  [Link to Demo](https://drive.google.com/file/d/1rlsglhXUqX2xy_7zzCfQK3kw8VuSaOa8/view)
+  [Link to Demo](https://drive.google.com/file/d/1rlsglhXUqX2xy_7zzCfQK3kw8VuSaOa8/view?usp=sharing)
  
